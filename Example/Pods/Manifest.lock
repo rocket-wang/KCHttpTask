@@ -1,0 +1,16 @@
+PODS:
+  - KCHttpTask (0.1.0)
+
+DEPENDENCIES:
+  - KCHttpTask (from `../`)
+
+EXTERNAL SOURCES:
+  KCHttpTask:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KCHttpTask: df1a0bcefb5180eced5ecc5b1fa8397ba22ecdd9
+
+PODFILE CHECKSUM: 61b287bcd97b2a734a44b516a3771ba383441e97
+
+COCOAPODS: 1.9.1
